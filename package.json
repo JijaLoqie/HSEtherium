@@ -1,0 +1,23 @@
+{
+  "name": "hsetherium",
+  "version": "1.0.0",
+  "description": "HSE project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JijaLoqie/HSEtherium.git"
+  },
+  "author": "JijaLoqie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JijaLoqie/HSEtherium/issues"
+  },
+  "homepage": "https://github.com/JijaLoqie/HSEtherium#readme",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.2",
+    "hardhat": "^2.14.0"
+  }
+}
